@@ -1,0 +1,20 @@
+﻿
+@model IEnumerable<Web1.Models.Book>
+<style>
+    body {
+        background: #ffd800;
+    }
+</style>   
+    <h1>Мои любимые книги: </h1>
+    <div> 
+        <ul>
+            @foreach(var book in Model)
+            {
+                <li>
+                    @(book.Author+" "+book.Name)
+                </li>
+            }
+            <li>И еще много разных книг...</li>
+        </ul>
+    </div>
+        @Html.ActionLink("Back","Index","Home")    

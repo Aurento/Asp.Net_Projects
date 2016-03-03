@@ -1,0 +1,21 @@
+﻿
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>_Layout</title>
+</head>
+<body>
+    <ul>
+        <li>@Html.ActionLink("Домашняя страничка","Index","Home")</li> 
+        <li>@Html.ActionLink("Мои любимые книги", "Books", "Home")</li> 
+        <li>@Html.ActionLink("Мой песик", "Mydog", "About")</li> 
+        <li>@Html.ActionLink("Любимые мемесы", "Memesu", "About")</li> 
+        <li>@Html.ActionLink("Мой велосипед!", "Bike","About")</li>
+    </ul>
+    <div> 
+        @RenderBody()
+    </div>
+</body>
+</html>
