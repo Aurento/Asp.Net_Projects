@@ -1,3 +1,0 @@
-C:\Users\Сверхразум\Documents\Visual Studio 2015\Projects\1079_MaxN\1079_MaxN\bin\Debug\1079_MaxN.exe.config
-C:\Users\Сверхразум\Documents\Visual Studio 2015\Projects\1079_MaxN\1079_MaxN\obj\Debug\1079_MaxN.csprojResolveAssemblyReference.cache
-C:\Users\Сверхразум\Documents\Visual Studio 2015\Projects\1079_Max\1079_MaxN\bin\Debug\1079_MaxN.exe.config

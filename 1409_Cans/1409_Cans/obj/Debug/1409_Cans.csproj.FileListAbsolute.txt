@@ -1,6 +1,0 @@
-C:\Users\Сверхразум\Documents\Visual Studio 2015\Projects\1409_Cans\1409_Cans\bin\Debug\1409_Cans.exe.config
-C:\Users\Сверхразум\Documents\Visual Studio 2015\Projects\1409_Cans\1409_Cans\bin\Debug\1409_Cans.exe
-C:\Users\Сверхразум\Documents\Visual Studio 2015\Projects\1409_Cans\1409_Cans\bin\Debug\1409_Cans.pdb
-C:\Users\Сверхразум\Documents\Visual Studio 2015\Projects\1409_Cans\1409_Cans\obj\Debug\1409_Cans.csprojResolveAssemblyReference.cache
-C:\Users\Сверхразум\Documents\Visual Studio 2015\Projects\1409_Cans\1409_Cans\obj\Debug\1409_Cans.exe
-C:\Users\Сверхразум\Documents\Visual Studio 2015\Projects\1409_Cans\1409_Cans\obj\Debug\1409_Cans.pdb

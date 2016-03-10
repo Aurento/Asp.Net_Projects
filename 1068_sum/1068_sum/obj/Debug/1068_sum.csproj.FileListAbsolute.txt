@@ -1,6 +1,0 @@
-C:\Users\Сверхразум\Documents\Visual Studio 2015\Projects\1068_sum\1068_sum\bin\Debug\1068_sum.exe.config
-C:\Users\Сверхразум\Documents\Visual Studio 2015\Projects\1068_sum\1068_sum\bin\Debug\1068_sum.exe
-C:\Users\Сверхразум\Documents\Visual Studio 2015\Projects\1068_sum\1068_sum\bin\Debug\1068_sum.pdb
-C:\Users\Сверхразум\Documents\Visual Studio 2015\Projects\1068_sum\1068_sum\obj\Debug\1068_sum.csprojResolveAssemblyReference.cache
-C:\Users\Сверхразум\Documents\Visual Studio 2015\Projects\1068_sum\1068_sum\obj\Debug\1068_sum.exe
-C:\Users\Сверхразум\Documents\Visual Studio 2015\Projects\1068_sum\1068_sum\obj\Debug\1068_sum.pdb
